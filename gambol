@@ -3,14 +3,13 @@
      <h1>hii cutie!</h1>
      <img src="https://c.tenor.com/Z8ezUHZzcLoAAAAC/love.gif" />
      <h1>will you meow me?</h1>
-     <button id="btn_mau" onclick="alert('I WUV YOU')">MAU</button
-     <button id="btn_gamau" onclick="gamau(this)" style="position:
-        Gamau
-     </button>
+     <button id="btn_mawww" onclick="alert('I WUV YOU')">mawww</button>
+     <button id="btn_gamaw" onclick="gamaw(this)" style="position: gamaw"><'button>
+        gamaw
     </body>
     <script>
-      function gamau(id) {
-        var mau = document.getElementById("btn_mau");
+      function gamaw(id) {
+        var mawww = document.getElementById("btn_mawww");
         var i = Math.floor(Math.random() * 300) + 1;
         var j = Math.floor(Math.random() * 100) + mau.offsetTop;
         id.style.left = i + "px";
